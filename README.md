@@ -1,18 +1,15 @@
 # Helium Void
 
-A minimal, AMOLED-friendly dark theme for [Helium Browser](https://helium.computer). Pure black frame with system-dark neutral grays — no eye-searing purple, no compromises.
+A minimal, AMOLED-friendly true dark theme for [Helium Browser](https://helium.computer). Pure black frame, tabs, and backgrounds for a seamless void effect, with dimmed text for inactive tabs to keep the focus on your current work.
+
+## What's Changed in this Fork
+
+* **Seamless Void Background:** Changed the toolbar, inactive tabs, and New Tab Page (NTP) backgrounds from system dark gray (`#1c1c1e` / `[28, 28, 30]`) to pure black (`#000000` / `[0, 0, 0]`).
+* **Dimmed Inactive Tab Text:** Updated the inactive tab text from bright white to a dimmed gray (`#6e6e73` / `[110, 110, 115]`) so the active tab remains clearly highlighted.
 
 ## Preview
 
-![Helium Void: pure black window frame with system-dark gray tabs and omnibox](https://github.com/user-attachments/assets/76fe9136-7362-48c8-8514-75f6a5eea9b5)
-
-| Element | Color |
-|---|---|
-| Frame | `#000000` — pure black |
-| Toolbar / Active Tab | `#070707` — near black |
-| Inactive Tabs / Omnibox / NTP | `#1c1c1e` — system dark gray |
-| Text | `#ffffff` — white |
-| Links | `#0a84ff` — system blue |
+![Helium Void: pure black window frame with pure black tabs and dimmed inactive text](assets/preview.png)
 
 ## Installation
 
